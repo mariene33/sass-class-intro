@@ -8,6 +8,18 @@ main #section-two {
   color: green;
 }
 
+#section-one {
+  background-color: aquamarine;
+  width: 30px;
+  height: max-content;
+}
+
+#section-two {
+  background-color: aquamarine;
+  width: 30px;
+  height: max-content;
+}
+
 body {
   background-color: burlywood;
 }

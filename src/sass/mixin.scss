@@ -1,0 +1,11 @@
+@mixin demonio {
+    background-color: aquamarine;
+    width: 30px;
+    height: max-content;
+}
+#section-one{
+    @include demonio
+    }
+#section-two{
+    @include demonio;
+}

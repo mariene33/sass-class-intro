@@ -1,6 +1,7 @@
+
 @use 'sections';
 @import 'variables';
-
+@import 'mixin';
 body{
     background-color: $backgroundColor;
 

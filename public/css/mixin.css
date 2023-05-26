@@ -1,13 +1,3 @@
-main {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  color: darkorchid;
-}
-main #section-two {
-  color: green;
-}
-
 #section-one {
   background-color: aquamarine;
   border: 1px solid darkblue;
@@ -38,16 +28,4 @@ main #section-two {
   color: black !important;
 }
 
-body {
-  background-color: burlywood;
-}
-body header {
-  color: crimson;
-  width: 100%;
-}
-body header h1 {
-  font-style: italic;
-  text-align: center;
-}
-
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=mixin.css.map */

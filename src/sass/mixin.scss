@@ -1,11 +1,15 @@
 @mixin demonio {
     background-color: aquamarine;
-    width: 30px;
+    width: 80px;
     height: max-content;
 }
 #section-one{
     @include demonio
     }
 #section-two{
+    @include demonio;
+}
+
+#section-three{
     @include demonio;
 }
